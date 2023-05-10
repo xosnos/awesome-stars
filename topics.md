@@ -55,7 +55,6 @@
 - [js](#js)
 - [json](#json)
 - [kubernetes](#kubernetes)
-- [language](#language)
 - [library](#library)
 - [linux](#linux)
 - [mac](#mac)
@@ -308,7 +307,6 @@
 ## go 
 
 - [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter) - :rocket: Easy way to know how many visitors are viewing your Github, Website, Notion. :tada:
-- [golang/go](https://github.com/golang/go) - The Go programming language
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -317,7 +315,6 @@
 
 - [memphisdev/memphis](https://github.com/memphisdev/memphis) - Next-Generation Event Processing Platform
 - [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter) - :rocket: Easy way to know how many visitors are viewing your Github, Website, Notion. :tada:
-- [golang/go](https://github.com/golang/go) - The Go programming language
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -410,10 +407,6 @@
 - [memphisdev/memphis](https://github.com/memphisdev/memphis) - Next-Generation Event Processing Platform
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 
-## language 
-
-- [golang/go](https://github.com/golang/go) - The Go programming language
-
 ## library 
 
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
@@ -496,18 +489,14 @@
 - [jakegut/resume](https://github.com/jakegut/resume) - LaTeX template for my personal resume
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [HackBlue/HackBlue.github.io](https://github.com/HackBlue/HackBlue.github.io) - 
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [xosnos/ACE](https://github.com/xosnos/ACE) - ACE presents RANGR, a mobile golf swing tracker that uses computer vision to analyze ball movements to provide metrics and insights. It’s as simple as set, swing, track!
-- [bsovs/Fall2023-Internships](https://github.com/bsovs/Fall2023-Internships) - Collection of Fall 2023 tech internships!
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [CourtneyThurston/microsoft-internships](https://github.com/CourtneyThurston/microsoft-internships) - Advice on how to get hired for the 2 most popular SWE-oriented Microsoft internships
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sudopluto/video-notes](https://github.com/sudopluto/video-notes) - notes for youtube videos here: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g, will be copied onto newsletter here: https://www.getrevue.co/profile/sudopluto
-- [FireTeamSix/Fall2022-Internships](https://github.com/FireTeamSix/Fall2022-Internships) - Collection of Fall 2022 tech internships!
-- [bchiang7/v1](https://github.com/bchiang7/v1) - First iteration of my personal website
 - [deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume) - A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
