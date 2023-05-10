@@ -45,7 +45,6 @@
 
 - [memphisdev/memphis](https://github.com/memphisdev/memphis) - Next-Generation Event Processing Platform
 - [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter) - :rocket: Easy way to know how many visitors are viewing your Github, Website, Notion. :tada:
-- [golang/go](https://github.com/golang/go) - The Go programming language
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -53,8 +52,6 @@
 ## HTML 
 
 - [Wavez/react-hooks-lifecycle](https://github.com/Wavez/react-hooks-lifecycle) - ⚛️ 🪝 ⏳ React hooks lifecycle diagram: Functional components lifecycle explained
-- [HackBlue/HackBlue.github.io](https://github.com/HackBlue/HackBlue.github.io) - 
-- [bchiang7/v1](https://github.com/bchiang7/v1) - First iteration of my personal website
 
 ## JavaScript 
 
@@ -107,12 +104,10 @@
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
-- [bsovs/Fall2023-Internships](https://github.com/bsovs/Fall2023-Internships) - Collection of Fall 2023 tech internships!
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [CourtneyThurston/microsoft-internships](https://github.com/CourtneyThurston/microsoft-internships) - Advice on how to get hired for the 2 most popular SWE-oriented Microsoft internships
 - [sudopluto/video-notes](https://github.com/sudopluto/video-notes) - notes for youtube videos here: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g, will be copied onto newsletter here: https://www.getrevue.co/profile/sudopluto
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [FireTeamSix/Fall2022-Internships](https://github.com/FireTeamSix/Fall2022-Internships) - Collection of Fall 2022 tech internships!
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [lodthe/awesome-internships](https://github.com/lodthe/awesome-internships) - A curated list of tech internships resources.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
