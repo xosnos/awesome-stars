@@ -337,7 +337,7 @@
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [coderQuad/New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023) - A collection of New Grad full time roles in SWE, Quant, and PM.
+- [coderQuad/New-Grad-Positions](https://github.com/coderQuad/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
 - [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
