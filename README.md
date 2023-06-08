@@ -90,6 +90,7 @@
 
 ## Others 
 
+- [pittcsc/Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
