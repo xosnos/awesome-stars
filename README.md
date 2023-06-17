@@ -188,6 +188,7 @@
 
 ## TypeScript 
 
+- [expo/eas-cli](https://github.com/expo/eas-cli) - Fastest way to build, submit, and update iOS and Android apps
 - [fern-api/fern](https://github.com/fern-api/fern) - Generate SDKs (client libraries) for your API
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
