@@ -596,7 +596,7 @@
 
 ## others 
 
-- [pittcsc/Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
+- [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
