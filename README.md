@@ -12,6 +12,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
@@ -89,6 +90,10 @@
 ## Jupyter Notebook 
 
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
+
+## MDX 
+
+- [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
 ## Markdown 
 
