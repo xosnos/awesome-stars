@@ -241,7 +241,7 @@
 
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 
 ## continuous-integration 
 
@@ -400,7 +400,7 @@
 
 ## graphql 
 
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 
 ## hacking 
 
@@ -692,7 +692,7 @@
 - [bchiang7/spotify-profile](https://github.com/bchiang7/spotify-profile) - A web app for visualizing personalized Spotify data built with React, Express, and the Spotify API
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 
 ## react-native 
 
