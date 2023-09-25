@@ -335,6 +335,7 @@
 
 ## firebase 
 
+- [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes React Hooks and Higher Order Components.
 - [FirebaseExtended/reactfire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 
@@ -470,6 +471,7 @@
 
 ## javascript 
 
+- [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -796,6 +798,7 @@
 
 ## typescript 
 
+- [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
