@@ -200,6 +200,7 @@
 
 ## TypeScript 
 
+- [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [expo/eas-cli](https://github.com/expo/eas-cli) - Fastest way to build, submit, and update iOS and Android apps
