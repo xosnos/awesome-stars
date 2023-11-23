@@ -621,6 +621,7 @@
 
 ## others 
 
+- [firebase/firebaseui-web](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
