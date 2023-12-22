@@ -639,7 +639,6 @@
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
-- [xosnos/ACE](https://github.com/xosnos/ACE) - ACE presents RANGR, a mobile golf swing tracker that uses computer vision to analyze ball movements to provide metrics and insights. It’s as simple as set, swing, track!
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [CourtneyThurston/microsoft-internships](https://github.com/CourtneyThurston/microsoft-internships) - Advice on how to get hired for the 2 most popular SWE-oriented Microsoft internships
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
