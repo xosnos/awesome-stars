@@ -73,7 +73,6 @@
 - [nexxtway/react-rainbow](https://github.com/nexxtway/react-rainbow) - 🌈  React Rainbow Components. Build your web application in a snap.
 - [react-dates/react-dates](https://github.com/react-dates/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
-- [xosnos/ACE](https://github.com/xosnos/ACE) - ACE presents RANGR, a mobile golf swing tracker that uses computer vision to analyze ball movements to provide metrics and insights. It’s as simple as set, swing, track!
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
