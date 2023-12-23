@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
@@ -27,7 +28,10 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-- [Zig](#zig)
+
+## C 
+
+- [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 
 ## C++ 
 
@@ -232,10 +236,6 @@
 
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-
-## Zig 
-
-- [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 
 
 ## License
