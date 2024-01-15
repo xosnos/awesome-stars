@@ -70,6 +70,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [mysql](#mysql)
@@ -567,6 +568,10 @@
 ## material-design 
 
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
+
+## microsoft 
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## mobile 
 
