@@ -286,7 +286,7 @@
 
 ## data 
 
-- [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
+- [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 
 ## data-structures 
 
@@ -413,7 +413,7 @@
 
 ## golang 
 
-- [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
+- [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter) - :rocket: Easy way to know how many visitors are viewing your Github, Website, Notion. :tada:
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -531,7 +531,7 @@
 
 ## kubernetes 
 
-- [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
+- [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
 ## library 
