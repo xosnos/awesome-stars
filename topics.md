@@ -116,6 +116,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xcode](#xcode)
+- [zig](#zig)
 
 ## algorithm 
 
@@ -896,6 +897,10 @@
 ## xcode 
 
 - [openfoodfacts/openfoodfacts-ios](https://github.com/openfoodfacts/openfoodfacts-ios) - Native (Swift) version of Open Food Facts for iOS. Coders & Decoders welcome 🤳🥫 😊
+
+## zig 
+
+- [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 
 
 ## License
