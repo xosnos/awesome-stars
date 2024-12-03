@@ -110,6 +110,7 @@
 
 ## Others 
 
+- [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [codecrafters-io/learning-stipends](https://github.com/codecrafters-io/learning-stipends) - Companies that support engineers with learning stipends
 - [bsovs/Fall2024-Internships](https://github.com/bsovs/Fall2024-Internships) - Collection of Fall 2023 tech internships!
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
