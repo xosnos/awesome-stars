@@ -31,6 +31,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 
 ## C++ 
