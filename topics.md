@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
 - [ansible](#ansible)
@@ -84,6 +85,7 @@
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
+- [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [programming](#programming)
@@ -94,6 +96,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [redux](#redux)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [sass](#sass)
 - [security](#security)
@@ -120,6 +123,10 @@
 - [xcode](#xcode)
 - [zig](#zig)
 
+## ai 
+
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
+
 ## algorithm 
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -127,6 +134,7 @@
 
 ## android 
 
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [farhoudshapouran/react-native-ui-datepicker](https://github.com/farhoudshapouran/react-native-ui-datepicker) - Customizable React Native 📅 Date Picker component for Android, iOS, and Web. It includes single, range and multiple modes, supports different locales, handle different timezones, and fully compatible 
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [expo/eas-cli](https://github.com/expo/eas-cli) - Fastest way to build, submit, and update iOS and Android apps
@@ -153,6 +161,7 @@
 
 ## awesome 
 
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -447,10 +456,12 @@
 
 ## hacking 
 
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## hacktoberfest 
 
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
@@ -515,6 +526,7 @@
 
 ## javascript 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -571,6 +583,9 @@
 
 ## llm 
 
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 
 ## mac 
@@ -617,6 +632,7 @@
 
 ## nextjs 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
@@ -629,6 +645,7 @@
 
 ## nodejs 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -681,6 +698,10 @@
 - [deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume) - A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 
+## penetration-testing 
+
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
 ## php 
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -701,6 +722,7 @@
 
 ## python 
 
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -772,6 +794,7 @@
 
 ## reactjs 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
 ## redux 
@@ -779,6 +802,10 @@
 - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes React Hooks and Higher Order Components.
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+
+## reverse-engineering 
+
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## ruby 
 
@@ -793,6 +820,7 @@
 
 ## security 
 
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## shell 
@@ -867,6 +895,7 @@
 
 ## typescript 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
