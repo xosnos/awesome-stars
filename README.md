@@ -111,6 +111,7 @@
 
 ## Others 
 
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [codecrafters-io/learning-stipends](https://github.com/codecrafters-io/learning-stipends) - Companies that support engineers with learning stipends
 - [bsovs/Fall2024-Internships](https://github.com/bsovs/Fall2024-Internships) - Collection of Fall 2023 tech internships!
@@ -156,6 +157,8 @@
 
 ## Python 
 
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
@@ -208,6 +211,7 @@
 
 ## TypeScript 
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
