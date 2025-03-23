@@ -58,6 +58,7 @@
 
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [Wavez/react-hooks-lifecycle](https://github.com/Wavez/react-hooks-lifecycle) - ⚛️ 🪝 ⏳ React hooks lifecycle diagram: Functional components lifecycle explained
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
 ## JavaScript 
 
@@ -143,7 +144,6 @@
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of full time roles in SWE, Quant, and PM for new grads.
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [CourtneyThurston/microsoft-internships](https://github.com/CourtneyThurston/microsoft-internships) - Advice on how to get hired for the 2 most popular SWE-oriented Microsoft internships
 - [sudopluto/video-notes](https://github.com/sudopluto/video-notes) - notes for youtube videos here: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g, will be copied onto newsletter here: https://www.getrevue.co/profile/sudopluto
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
