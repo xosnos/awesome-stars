@@ -135,7 +135,6 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [zig](#zig)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -1073,14 +1072,6 @@
 ## zig 
 
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
-
-## zsh 
-
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
