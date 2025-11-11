@@ -170,6 +170,7 @@
 
 ## Python 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
