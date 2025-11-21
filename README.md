@@ -119,6 +119,7 @@
 
 ## Others 
 
+- [edmund-io/edmunds-claude-code](https://github.com/edmund-io/edmunds-claude-code) - 
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-power
 - [obre10off/cursor_prd_example](https://github.com/obre10off/cursor_prd_example) - Example Cursor PRD File Strcuture to give Cursor maximum context about your project
