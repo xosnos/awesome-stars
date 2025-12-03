@@ -65,7 +65,6 @@
 ## JavaScript 
 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-- [firebase/firebaseui-web](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
 - [gre/react-native-view-shot](https://github.com/gre/react-native-view-shot) - Snapshot a React Native view and save it to an image
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -250,6 +249,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [farhoudshapouran/react-native-ui-datepicker](https://github.com/farhoudshapouran/react-native-ui-datepicker) - Customizable React Native 📅 Date Picker component for Android, iOS, and Web. It includes single, range, and multiple modes, supports different locales, including the Jalali (Persian) calendar, handles
+- [firebase/firebaseui-web](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
