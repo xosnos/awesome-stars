@@ -227,6 +227,7 @@
 
 ## awesome 
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [inttter/md-badges](https://github.com/inttter/md-badges) - An extensive list of Shields.io badges.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
@@ -865,6 +866,7 @@
 
 ## others 
 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [edmund-io/edmunds-claude-code](https://github.com/edmund-io/edmunds-claude-code) - 
