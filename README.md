@@ -64,6 +64,7 @@
 
 ## JavaScript 
 
+- [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork built with Claude Code and Composio Tool Router
 - [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with AI assistants through structured multi-agent workflows. Integrates to AI Assistants like Cursor, Claude Code, GitHub Copilot and more.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [gre/react-native-view-shot](https://github.com/gre/react-native-view-shot) - Snapshot a React Native view and save it to an image
