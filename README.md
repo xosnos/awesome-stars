@@ -47,6 +47,7 @@
 
 ## Go 
 
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
@@ -64,7 +65,7 @@
 
 ## JavaScript 
 
-- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 - [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with AI assistants through structured multi-agent workflows. Integrates to AI Assistants like Cursor, Claude Code, GitHub Copilot and more.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -252,6 +253,7 @@
 
 ## TypeScript 
 
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [get-convex/convex-helpers](https://github.com/get-convex/convex-helpers) - A collection of useful code to complement the official packages.
