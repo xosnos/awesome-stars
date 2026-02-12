@@ -54,6 +54,7 @@
 - [dotfiles](#dotfiles)
 - [education](#education)
 - [electron](#electron)
+- [elixir](#elixir)
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
@@ -72,6 +73,7 @@
 - [go](#go)
 - [golang](#golang)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -167,6 +169,8 @@
 
 ## ai 
 
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -525,9 +529,14 @@
 
 ## electron 
 
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## elixir 
+
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 
 ## es6 
 
@@ -625,6 +634,10 @@
 ## graphql 
 
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+
+## gui 
+
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 
 ## hacking 
 
@@ -851,6 +864,7 @@
 
 ## nextjs 
 
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
@@ -873,6 +887,7 @@
 
 ## nodejs 
 
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -966,6 +981,7 @@
 
 ## php 
 
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
@@ -997,6 +1013,7 @@
 
 ## python 
 
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -1163,6 +1180,7 @@
 
 ## swift 
 
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
@@ -1205,6 +1223,7 @@
 
 ## typescript 
 
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
