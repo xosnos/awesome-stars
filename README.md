@@ -255,6 +255,8 @@
 
 ## TypeScript 
 
+- [allipiopereira/turborepo-bun-next-expo](https://github.com/allipiopereira/turborepo-bun-next-expo) - This is a Turborepo monorepo named "turborepo-bun-next-expo" containing a Next.js web application and an Expo React Native mobile application, sharing common UI components and configuration packages.
+- [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
