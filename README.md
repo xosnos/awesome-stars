@@ -258,6 +258,9 @@
 
 ## TypeScript 
 
+- [amtiYo/agents](https://github.com/amtiYo/agents) - One .agents source of truth to sync MCP servers, skills, and instructions across Codex, Claude Code, Gemini CLI, Cursor, Copilot, and Antigravity.
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [allipiopereira/turborepo-bun-next-expo](https://github.com/allipiopereira/turborepo-bun-next-expo) - This is a Turborepo monorepo named "turborepo-bun-next-expo" containing a Next.js web application and an Expo React Native mobile application, sharing common UI components and configuration packages.
 - [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
