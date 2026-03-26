@@ -130,7 +130,7 @@
 
 ## Others 
 
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 700+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 1000+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 - [coleam00/dynamous-kiro-hackathon](https://github.com/coleam00/dynamous-kiro-hackathon) - Quickstart and Project Template for the Dynamous and Kiro Hackathon!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) - List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
@@ -140,7 +140,6 @@
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
 - [obre10off/cursor_prd_example](https://github.com/obre10off/cursor_prd_example) - Example Cursor PRD File Strcuture to give Cursor maximum context about your project
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [codecrafters-io/learning-stipends](https://github.com/codecrafters-io/learning-stipends) - Companies that support engineers with learning stipends
@@ -269,6 +268,7 @@
 
 ## TypeScript 
 
+- [lakshaybhushan/nextjs-notion-waitlist-template](https://github.com/lakshaybhushan/nextjs-notion-waitlist-template) - A template repository for creating a waitlist using Next.js 14, Notion as a CMS, Upstash Redis for rate limiting and Resend for sending emails with a custom domain.
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [amtiYo/agents](https://github.com/amtiYo/agents) - One .agents source of truth to sync MCP servers, skills, and instructions across Codex, Claude Code, Gemini CLI, Cursor, Copilot, and Antigravity.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
