@@ -956,6 +956,7 @@
 
 ## others 
 
+- [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [Infatoshi/OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel) - For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -970,7 +971,7 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
-- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with structured multi-agent workflows. Integrates to AI Assistants like Cursor, Claude Code, GitHub Copilot and more.
+- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with spec-driven multi-agent workflows.
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop
 - [coleam00/dynamous-kiro-hackathon](https://github.com/coleam00/dynamous-kiro-hackathon) - Quickstart and Project Template for the Dynamous and Kiro Hackathon!
