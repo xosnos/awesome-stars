@@ -333,7 +333,7 @@
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learn technical interview questions
 
 ## Vue 
