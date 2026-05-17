@@ -699,6 +699,7 @@
 
 ## golang 
 
+- [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -727,6 +728,7 @@
 
 ## hacktoberfest 
 
+- [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
@@ -955,6 +957,7 @@
 
 ## nextjs 
 
+- [gurselcakar/universal-react-monorepo](https://github.com/gurselcakar/universal-react-monorepo) - Universal React monorepo template
 - [lakshaybhushan/nextjs-notion-waitlist-template](https://github.com/lakshaybhushan/nextjs-notion-waitlist-template) - A template repository for creating a waitlist using Next.js 14, Notion as a CMS, Upstash Redis for rate limiting and Resend for sending emails with a custom domain.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
@@ -1195,6 +1198,7 @@
 
 ## react-native 
 
+- [gurselcakar/universal-react-monorepo](https://github.com/gurselcakar/universal-react-monorepo) - Universal React monorepo template
 - [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
 - [farhoudshapouran/react-native-ui-datepicker](https://github.com/farhoudshapouran/react-native-ui-datepicker) - Customizable React Native 📅 Date Picker component for Android, iOS, and Web. It includes single, range, and multiple modes, supports different locales, including the Jalali (Persian) calendar, handles
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
@@ -1354,6 +1358,8 @@
 
 ## typescript 
 
+- [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
+- [gurselcakar/universal-react-monorepo](https://github.com/gurselcakar/universal-react-monorepo) - Universal React monorepo template
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
