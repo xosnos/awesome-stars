@@ -186,6 +186,9 @@
 
 ## Python 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
+- [Picrew/awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness) - An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.
 - [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
 - [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -275,6 +278,7 @@
 
 ## TypeScript 
 
+- [tberoiz/supabase-auth-turborepo-boilerplate](https://github.com/tberoiz/supabase-auth-turborepo-boilerplate) - Turbo monorepo template with Supabase Auth, Next.js, and Shadcn/ui for modern dashboards.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
 - [gurselcakar/universal-react-monorepo](https://github.com/gurselcakar/universal-react-monorepo) - Universal React monorepo template
