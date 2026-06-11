@@ -1046,6 +1046,8 @@
 
 ## others 
 
+- [railwayapp-templates/fastapi](https://github.com/railwayapp-templates/fastapi) - 
+- [bradtraversy/fastapi-issue-tracker](https://github.com/bradtraversy/fastapi-issue-tracker) - FastAPI crash course project
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [Picrew/awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness) - An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.
 - [tberoiz/supabase-auth-turborepo-boilerplate](https://github.com/tberoiz/supabase-auth-turborepo-boilerplate) - Turbo monorepo template with Supabase Auth, Next.js, and Shadcn/ui for modern dashboards.
