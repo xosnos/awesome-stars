@@ -186,6 +186,8 @@
 
 ## Python 
 
+- [railwayapp-templates/fastapi](https://github.com/railwayapp-templates/fastapi) - 
+- [bradtraversy/fastapi-issue-tracker](https://github.com/bradtraversy/fastapi-issue-tracker) - FastAPI crash course project
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [Picrew/awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness) - An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.
