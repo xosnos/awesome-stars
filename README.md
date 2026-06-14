@@ -186,6 +186,7 @@
 
 ## Python 
 
+- [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) - A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.
 - [railwayapp-templates/fastapi](https://github.com/railwayapp-templates/fastapi) - 
 - [bradtraversy/fastapi-issue-tracker](https://github.com/bradtraversy/fastapi-issue-tracker) - FastAPI crash course project
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
