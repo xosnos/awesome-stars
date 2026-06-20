@@ -67,6 +67,7 @@
 
 ## JavaScript 
 
+- [adrianhajdin/ghost-ai](https://github.com/adrianhajdin/ghost-ai) - Ghost AI is an interactive systems architecture builder.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
@@ -127,6 +128,7 @@
 
 ## Others 
 
+- [JavaScript-Mastery-Pro/skills](https://github.com/JavaScript-Mastery-Pro/skills) - Agentic Development skills behind the JS Mastery workflow
 - [elysiajs/awesome-elysia](https://github.com/elysiajs/awesome-elysia) - Community driven curated list of awesome things related to ElysiaJS
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -281,6 +283,7 @@
 
 ## TypeScript 
 
+- [adrianhajdin/job_pilot](https://github.com/adrianhajdin/job_pilot) - AI-powered job search assistance for matching roles, tailored resumes, and faster applications.
 - [tberoiz/supabase-auth-turborepo-boilerplate](https://github.com/tberoiz/supabase-auth-turborepo-boilerplate) - Turbo monorepo template with Supabase Auth, Next.js, and Shadcn/ui for modern dashboards.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
