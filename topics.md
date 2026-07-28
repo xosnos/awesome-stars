@@ -1120,6 +1120,7 @@
 
 ## others 
 
+- [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [jsmastery-pro/skills](https://github.com/jsmastery-pro/skills) - Agentic Development skills behind the JS Mastery workflow
 - [railwayapp-templates/fastapi](https://github.com/railwayapp-templates/fastapi) - 
