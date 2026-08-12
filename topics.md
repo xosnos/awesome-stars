@@ -1306,6 +1306,7 @@
 
 ## react-native 
 
+- [assalabs/expo-turbo-starter](https://github.com/assalabs/expo-turbo-starter) - A small, opinionated Expo + Turborepo starter. The boring wiring is done.
 - [gurselcakar/universal-react-monorepo](https://github.com/gurselcakar/universal-react-monorepo) - Universal React monorepo template
 - [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
 - [farhoudshapouran/react-native-ui-datepicker](https://github.com/farhoudshapouran/react-native-ui-datepicker) - Customizable React Native 📅 Date Picker component for Android, iOS, and Web. It includes single, range, and multiple modes, supports different locales, including the Jalali (Persian) calendar, handles
@@ -1472,6 +1473,7 @@
 
 ## typescript 
 
+- [assalabs/expo-turbo-starter](https://github.com/assalabs/expo-turbo-starter) - A small, opinionated Expo + Turborepo starter. The boring wiring is done.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
 - [gurselcakar/universal-react-monorepo](https://github.com/gurselcakar/universal-react-monorepo) - Universal React monorepo template
