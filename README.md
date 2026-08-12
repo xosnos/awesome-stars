@@ -67,6 +67,7 @@
 
 ## JavaScript 
 
+- [assalabs/expo-turbo-starter](https://github.com/assalabs/expo-turbo-starter) - A small, opinionated Expo + Turborepo starter. The boring wiring is done.
 - [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
