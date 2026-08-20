@@ -1123,6 +1123,7 @@
 
 ## others 
 
+- [SonavAgarwal/auto-beli](https://github.com/SonavAgarwal/auto-beli) - 
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
