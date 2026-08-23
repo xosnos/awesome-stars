@@ -179,7 +179,7 @@
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [CourtneyThurston/microsoft-internships](https://github.com/CourtneyThurston/microsoft-internships) - Advice on how to get hired for the 2 most popular SWE-oriented Microsoft internships
 - [sudopluto/video-notes](https://github.com/sudopluto/video-notes) - notes for youtube videos here: https://www.youtube.com/channel/UC0XpCeBtCPGtw0d3mVRYP-g, will be copied onto newsletter here: https://www.getrevue.co/profile/sudopluto
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [lodthe/awesome-internships](https://github.com/lodthe/awesome-internships) - A curated list of tech internships resources.
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
