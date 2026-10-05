@@ -1166,6 +1166,7 @@
 
 ## others 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [codejunkie99/keel](https://github.com/codejunkie99/keel) - Local-first macOS coding workspace with local Laya and optional Jev decision selection
 - [aasthas2022/SDE-Interview-and-Prep-Roadmap](https://github.com/aasthas2022/SDE-Interview-and-Prep-Roadmap) - Welcome to the SDE Interview Preparation Roadmap! This repository is not just about my personal journey; it's a collaborative space for collective learning. As I prepare for Software Development Engin
 - [SchroederNathan/react-native-motion](https://github.com/SchroederNathan/react-native-motion) - A library of animations for React Native
