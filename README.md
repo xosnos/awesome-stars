@@ -192,6 +192,7 @@
 
 ## Python 
 
+- [google-research/harness2](https://github.com/google-research/harness2) - 
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
 - [AtticusZeller/fastapi_supabase_template](https://github.com/AtticusZeller/fastapi_supabase_template) - 👏fastapi deeply integrates with supabase，auth，curd postgresql，file upload ，etc  ， all in one😎，inspired by full stack fastapi postgresql
