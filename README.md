@@ -34,7 +34,7 @@
 
 ## C++ 
 
-- [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+- [meta/folly](https://github.com/meta/folly) - An open-source C++ library developed and used at Facebook.
 
 ## CSS 
 
@@ -196,6 +196,7 @@
 
 ## Python 
 
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [google-research/harness2](https://github.com/google-research/harness2) - 
@@ -381,7 +382,7 @@
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learn technical interview questions
