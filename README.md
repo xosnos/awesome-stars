@@ -196,7 +196,7 @@
 
 ## Python 
 
-- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source skills for designing and reviewing software with AI agents
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
